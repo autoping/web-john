@@ -69,7 +69,7 @@ input {
 }
 
 input {
-   //width: min(100%, 20rem);
+
     flex-grow: 1;
 }
 
