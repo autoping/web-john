@@ -69,7 +69,7 @@ input {
 }
 
 input {
-
+    max-width: 80%;
     flex-grow: 1;
 }
 
