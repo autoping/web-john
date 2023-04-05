@@ -6,7 +6,10 @@
         placeholder="Текст сообщения"
         type="text"
     />
-    <button :disabled="text === ''" type="submit">Отправить</button>
+    <button :disabled="text === ''" type="submit">
+        <i class="fa-regular fa-paper-plane fa-2xl"></i>
+    </button>
+    
 </form>
 
 </template>
